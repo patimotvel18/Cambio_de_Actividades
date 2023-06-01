@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cambio de actividades</string>
+    <string name="pantalla_1">ACTIVIDAD 1</string>
+    <string name="pantalla_2">ACTIVIDAD 2</string>
+    <string name="pantalla_3">ACTIVIDAD 3</string>
+</resources>
